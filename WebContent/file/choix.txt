@@ -1,0 +1,4 @@
+Informatique
+Pour réaliser un traitement, l'ordinateur exécute : !des données, un programme, des résultats !2
+La plus petite quantité d'information s'appelle : !l'octet, le bit,le mot !2
+Pour utiliser un programme, il faut le charger : !sur disquette, sur l'écran, en mémoire RAM !3
